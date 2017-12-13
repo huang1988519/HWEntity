@@ -82,7 +82,7 @@ NSArray * objs = self.obj.friends;
 
 **CocoaPods**
 ```
-pod 'HWEntity', :git => 'git@gitlab.alibaba-inc.com:weihua.hwh/HWEntity.git'
+pod 'HWEntity', :git => 'git@github.com:huang1988519/HWEntity.git'
 
 ```
 

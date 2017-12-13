@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    DESC
 
-  s.homepage     = "http://gitlab.alibaba-inc.com/weihua.hwh/HWEntity"
+  s.homepage     = "https://github.com/huang1988519/HWEntity"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "git@gitlab.alibaba-inc.com:weihua.hwh/HWEntity.git", :tag => "#{s.version}" }
+  s.source       = { :git => "git@github.com:huang1988519/HWEntity.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
