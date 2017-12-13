@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWDynamicEntityTests/HWDynamicEntityTests.m"
+            timestampString = "534863373.447546"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "-testNullValue"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HWDynamicEntityTests testNullValue]"
+                  moduleName = "HWDynamicEntityTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hwh/Code/Project/HWDynamicEntity/HWDynamicEntityTests/HWDynamicEntityTests.m"
+                  timestampString = "534861644.496045"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "210">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HWDynamicEntityTests testNullValue]"
+                  moduleName = "HWDynamicEntityTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hwh/Code/Project/HWDynamicEntity/HWDynamicEntityTests/HWDynamicEntityTests.m"
+                  timestampString = "534861644.503442"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "369">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWDynamicEntity/class/HWEntiry.m"
+            timestampString = "534863005.143509"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "-forwardInvocation:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HWEntiry forwardInvocation:]"
+                  moduleName = "HWDynamicEntity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hwh/Code/Project/HWDynamicEntity/HWDynamicEntity/class/HWEntiry.m"
+                  timestampString = "534861643.356157"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HWEntiry forwardInvocation:]"
+                  moduleName = "HWDynamicEntityTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hwh/Code/Project/HWDynamicEntity/HWDynamicEntity/class/HWEntiry.m"
+                  timestampString = "534861644.508364"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWDynamicEntityTests/HWDynamicEntityTests.m"
+            timestampString = "534863373.448463"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "-testNullValue"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HWDynamicEntity/class/HWEntiry.m"
+            timestampString = "534863005.14394"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "-propertyNameScanFromSetterSelector:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HWEntiry propertyNameScanFromSetterSelector:]"
+                  moduleName = "HWDynamicEntity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hwh/Code/Project/HWDynamicEntity/HWDynamicEntity/class/HWEntiry.m"
+                  timestampString = "534861643.372645"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HWEntiry propertyNameScanFromSetterSelector:]"
+                  moduleName = "HWDynamicEntityTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hwh/Code/Project/HWDynamicEntity/HWDynamicEntity/class/HWEntiry.m"
+                  timestampString = "534861644.520825"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
